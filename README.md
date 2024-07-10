@@ -1,0 +1,1 @@
+This is a simple python script to generate displacements along the vibrational modes of a given molecule. The required inputs are the frequencies (in wavenumbers), the equilibrium coordinates (in Angstrom), the reduced masses (in amu), and the associated normal modes.
